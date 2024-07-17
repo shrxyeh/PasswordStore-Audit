@@ -2,9 +2,7 @@
 title: PasswordStore Audit Report
 author: 0xshrxyeh
 date: September 1, 2023
-header-includes:
-  - \usepackage{titling}
-  - \usepackage{graphicx}
+
 ---
 
 # PasswordStore Audit Report
